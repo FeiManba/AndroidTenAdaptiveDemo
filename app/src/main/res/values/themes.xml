@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="tv_font_color">@color/color_000000</color>
+    <color name="tool_bar_bg">@color/color_FFFFFF</color>
 </resources>
